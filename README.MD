@@ -4,15 +4,16 @@
 
 > Desafio Extra
 
-Projeto construído no evento Next Level Week (NLW) da Rocketseat.
+Projeto extra construído no evento Next Level Week (NLW) da Rocketseat.
 
-[Clique aqui para acessar!](https://pedrogoldschmidt.github.io/NLW-esports-explorer)
+[Clique aqui para acessar!](https://pedrogoldschmidt.github.io/NLW-extra/)
 
 ## Tecnologias
 
 - HTML
 - CSS
 - Git e Github
+- Figma
 
 ## Contato
 
