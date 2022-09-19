@@ -9,10 +9,11 @@ ul {
 }
 
 body{
-    
-    background: #000000; 
-    background: linear-gradient(to right, #252525, #000000); 
-
+    background-image:url(./assets/stars.png);
+    background-position:absolute top center;
+    background-size:100% auto;
+    background-repeat: no-repeat;
+    background-color:  #080808;
 }
 
 body * {
